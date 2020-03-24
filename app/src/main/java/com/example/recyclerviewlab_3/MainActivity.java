@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         ArrayList<Cactusic> cactusic = new ArrayList<>();
         cactusic.add(new Cactusic("astrophytum", "Domain: Eukaryotes\n" ,R.drawable.astrophytum));
         cactusic.add(new Cactusic("Mammilliaria","Domain: Eukaryotes\n" ,R.drawable.mammilliaria));
-        cactusic.add(new Cactusic("Mammilliaria Pink","Domain: Eukaryotes\n",R.drawable.mammilliariapink));
+        cactusic.add(new Cactusic("Mammilliaria\n" +"Pink","Domain: Eukaryotes\n",R.drawable.mammilliariapink));
         cactusic.add(new Cactusic("Discocactus","Domain: Eukaryotes\n",R.drawable.discocactus));
         cactusic.add(new Cactusic("Prickly Pear","Domain: Eukaryotes\n",R.drawable.pricklypear));
         cactusic.add(new Cactusic("Shallow whaired","Domain: Eukaryotes\n",R.drawable.shallowhairedpricklypear));
