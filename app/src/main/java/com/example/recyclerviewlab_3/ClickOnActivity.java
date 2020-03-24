@@ -14,7 +14,7 @@ public class ClickOnActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_click_on);
 
-        Cactusic cactusic = (Cactusic) getIntent().getSerializableExtra("car");
+        Cactusic cactusic = (Cactusic) getIntent().getSerializableExtra("cactusic");
 
         TextView title = findViewById(R.id.title);
         TextView family = findViewById(R.id.listdatacharact_1);
