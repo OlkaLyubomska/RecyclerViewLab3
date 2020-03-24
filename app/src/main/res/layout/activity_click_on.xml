@@ -68,13 +68,7 @@
             android:layout_marginStart="30dp"
             android:layout_marginEnd="31dp"
             android:layout_marginBottom="72dp"
-            android:text="Domain: Eukaryotes
-                      Kingdom: Plants
-                      Department: Flowering
-                      Class: Dicotyledonous
-                      Order: Cloves
-                      Family: Cactus
-                      Genus: Rebucius"
+            android:text="Domain: Eukaryotes"
             android:textColor="#000"
             android:textSize="25sp"
             app:layout_constraintBottom_toBottomOf="parent"

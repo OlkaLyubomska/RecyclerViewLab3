@@ -18,6 +18,7 @@ class MyViewHolder extends RecyclerView.ViewHolder {
     }
 
     void bind(final Cactusic cactusic){
+
         TextView cactusName = view.findViewById(R.id.cactusName);
         TextView familyCactus = view.findViewById(R.id.familyCactus);
         ImageView image = view.findViewById(R.id.image);

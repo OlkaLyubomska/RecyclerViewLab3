@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         cactusic.add(new Cactusic("Mammilliaria Pink","Domain: Eukaryotes\n",R.drawable.mammilliariapink));
         cactusic.add(new Cactusic("Discocactus","Domain: Eukaryotes\n",R.drawable.discocactus));
         cactusic.add(new Cactusic("Prickly Pear","Domain: Eukaryotes\n",R.drawable.pricklypear));
-        cactusic.add(new Cactusic("Shallow whaired prickly pear","Domain: Eukaryotes\n",R.drawable.shallowhairedpricklypear));
+        cactusic.add(new Cactusic("Shallow whaired","Domain: Eukaryotes\n",R.drawable.shallowhairedpricklypear));
 
         RecyclerView recyclerView = findViewById(R.id.recyclerView);
 
